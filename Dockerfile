@@ -1,5 +1,5 @@
 # Use the latest Ubuntu image as a parent
-FROM ubuntu:focal
+FROM ubuntu:resolute
 MAINTAINER "Johan Pienaar" <johan@pienaarfamilie.nl>
 
 ENV DEBIAN_FRONTEND=noninteractive TZ=Europe/Amsterdam
